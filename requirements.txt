@@ -74,7 +74,7 @@ Pygments==2.14.0
 PyMySQL==1.0.3
 pyparsing==3.0.9
 python-dateutil==2.8.2
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 python-multipart==0.0.6
 pytz==2023.3
 pywin32==305
