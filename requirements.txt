@@ -18,7 +18,7 @@ dnspython==2.3.0
 email-validator==2.0.0.post2
 executing==1.2.0
 fastapi==0.99.1
-fastparquet==2023.4.0
+fastparquet==0.8.1
 flatbuffers==23.5.26
 fonttools==4.39.3
 fsspec==2023.5.0
