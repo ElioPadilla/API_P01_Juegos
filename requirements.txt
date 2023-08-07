@@ -20,7 +20,7 @@ executing==1.2.0
 fastapi==0.99.1
 fastparquet==0.8.1
 flatbuffers==23.5.26
-fonttools==4.39.3
+fonttools==4.38.0
 fsspec==2023.5.0
 gast==0.4.0
 google-auth==2.20.0
